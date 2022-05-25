@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178159842100",
+    "project_id": "preaprobacion-ce385",
+    "storage_bucket": "preaprobacion-ce385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178159842100:android:8c40f71d551e01c5a36b61",
+        "android_client_info": {
+          "package_name": "com.lentesacredito.preaprobacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178159842100-vb6lgotck383dd16h80g0ktk3pv3tk98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkgcKN8U3eL8ENdzca2G7ymsv91TD1iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178159842100-vb6lgotck383dd16h80g0ktk3pv3tk98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
